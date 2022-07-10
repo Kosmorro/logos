@@ -1,6 +1,6 @@
 # Kosmorro logos
 
-This repository contains the official logos of [Kosmorro](http://kosmorro.space), in two formats, two variations and three color themes.
+This repository contains the official logos of [Kosmorro](http://kosmorro.space), in two formats, two variations and two color themes.
 
 Kosmorro's logo is composed of the "Kosmorro" name in lower case, the last "o" being stylized in a representation of a quasi-total solar eclipse.
 
