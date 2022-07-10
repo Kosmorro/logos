@@ -13,9 +13,6 @@ Kosmorro's logo is composed of the "Kosmorro" name in lower case, the last "o" b
 - **Available color themes:**
     - Dark, recommended for display on light background or print
     - Light, recommended for display on dark background
-    - Grey, recommended when the background color cannot be predicted
-
-      **Note:** the grey theme should be used only when the dark and light ones cannot for some reason.
 
 The font used in the full logo is [Raleway](https://www.theleagueofmoveabletype.com/raleway), created by Matt McInerney and distributed by [the League of Moveable Type](https://www.theleagueofmoveabletype.com) under the terms of the [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web).
 
@@ -34,10 +31,5 @@ The font used in the full logo is [Raleway](https://www.theleagueofmoveabletype.
         <th>Light theme</th>
         <td><img src="svg/kosmorro-logo-white.svg" alt="" />
         <td><img src="svg/kosmorro-icon-white.svg" alt="" />
-    </tr>
-    <tr>
-        <th>Grey theme</th>
-        <td><img src="svg/kosmorro-logo-grey.svg" alt="" />
-        <td><img src="svg/kosmorro-icon-grey.svg" alt="" />
     </tr>
 </table>
